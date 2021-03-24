@@ -1,0 +1,22 @@
+_repo: Into-the-Sun_64889
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chapman, John L. (John Leslie)
+    alias: Chapman, John Leslie
+    birthdate: 1920
+    gutenberg_agent_id: '53059'
+    url: http://www.gutenberg.org/2009/agents/53059
+description: ''
+gutenberg_issued: '2021-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Into the Sun
+url: http://www.gutenberg.org/ebooks/64889
